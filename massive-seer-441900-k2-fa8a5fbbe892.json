@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "massive-seer-441900-k2",
+  "private_key_id": "fa8a5fbbe892d69ab7e61dc0c66306b635e38e0c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDROZXci2TzQPGf\ntRs8ssMpJN0gQ0WhpfKpRl5bVEoXbvRGWAsIYcQ7xomuwDH8ySrWAIcD1r3WwFBa\n2AeGU+abmDZslJ1YiCnNrLr937ZJMtOLa5070PAIvEBTqZIb0ZVN9zeYidikL4an\nt6xwvZTGxz0BQseWENtzAWtJCMHOn2gdqSpIy+nEUi6As0crWrbQdVMDaZOWP3sw\nMFXrUd754GdrKkyiUj9oo5dNOmAnAGmVy4oslzcUly3QQiezRABUQcEzsVn4poIE\nsSPFAtEh3cJTftpV4gyG5mmGt65TnmIMxevEbSaMNA9OhXGZ5iFRI5LkZAtXjC5q\nzwpIWpF1AgMBAAECggEAALwtTtxNgz5F6wv5l8XAAke/ICMkXjxFRTt6TuNVrE3n\nPU0HYuTnCde5eZvywQLa6+wODWEmgxfjYGJUanAmhgLrpAeEowA9d1vFP2mXDBxJ\n2npLD9/8y+cPacvVd9QNbHvzHc3ULUV+eV3flPjRij4+dF/t8BTIlJebbyMA/U8X\n7/tTkoHV+ubVIoHhqvWremMO5I1AK9u3Cd/9ts/stKnAhq5LIjpoK9njt4ykmMnS\nu4r1pRHN+/0DN95YUfHK5O7UF7SVCFikVzND8LSzHiz72Ct5sG5zgevJoy2gRzqz\nk7StPC/9R48wpMcT/uDIcriISlN2mJvwYjplH9gpQQKBgQDo6g3uFXzTTYdbEoHb\nwoBeWBxC5IzFCK/tJ2deXfXCbreSGYWclmOX/lN2CaR8NnY5p6As8lGaVAPgQcxE\nPXCJXPtPTzHrUYmEqcit3nEOhgGG5ABHV9Qg0j1OqCJHBNSquzo75SbJFWg77mF4\nVIjiuHA+mKVtv2DC+UjVN79YQQKBgQDl9nClu1U3jhI4gej0nq3xAZ6FBNpVzDpW\nEIjv/PHpTTi+mdXQizEyqeXfu9HEVCNRtl0wKnwIRkbpn5+mixqGAMGNX3BvkPXe\nHwdviiGpLNd8B3XWFYZYQGxx6JM6cHGKZHFYvoENFG7DAw5EXllEtRLvRrzBpgdL\nA7LYPQpMNQKBgQDlA/7ec1JhkoHdEr2NEBqYqZpgS8n+kyQo0+3X5BuaKrNlfKLb\n7SPQd8oo7iJF4GcvGZttlnaWgLWu9AOdtavJ5RtWSFCVSX8maqtgCrCvzyQBNn7v\np3R1MUQG61uI6T8TATWpXxBb+CidhS9h2f0esKvtYLqIxvyluefbfw0uAQKBgQC/\nITLDLI5JXFWcjazXE8OyWgwstrnZMaMSwS9vd6aAp+QP1sA1UlsTps4eRHa2XM/2\nLEILtGPeZLqvljIVM+xZj+tO2xISSENx2AxQElijyVdYCMNRqhY851661fj4S1iz\nE4R5o+ySuHbOso17GYfMaUtRgFOGB75sBKjyvNkAOQKBgExMal2OMhWfUI1WHNwy\nkqKOJ1T0zRRcqGa+2Qt/0kYQ6qsPcaC0/ykcyeMYwEo5kHlyFBwhalQOJD6Ewnw8\nxEc1/FqVKShY+rR4bqVm3wY1mg6Ld6oYP8O0eugOd8mGwiTyJXAMeX2c5dz/DJ6w\nZUFWZHAuZmKnSJY8wG/I2372\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-quantum@massive-seer-441900-k2.iam.gserviceaccount.com",
+  "client_id": "112296366892635897065",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-quantum%40massive-seer-441900-k2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
